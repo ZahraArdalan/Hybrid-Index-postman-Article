@@ -314,9 +314,7 @@ All correctness tests passed.
 
 <h2 dir="rtl" align="right" id="تناظر-با-مقاله">تناظر با مقاله</h2>
 <p dir="rtl" align="right">
-فایل <a href="./REPORT.md"><code>REPORT.md</code></a> توضیح تفصیلی و
-بخش‌به‌بخش (به فارسی) از هر تصمیم طراحی، ساده‌سازی، و نحوه‌ی تناظر هر
-ماژول با مقاله‌ی اصلی را شامل می‌شود.
+
 </p>
 
 </div>
