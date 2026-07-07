@@ -145,9 +145,7 @@ $ python3 test_correctness.py
 All correctness tests passed.
 ```
 
-## Mapping to the Paper
 
-See [`REPORT.md`](./REPORT.md) for a detailed, section-by-section
 explanation (in Persian) of every design decision, simplification, and how
 each module corresponds to the original paper.
 
