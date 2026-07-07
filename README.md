@@ -146,8 +146,6 @@ All correctness tests passed.
 ```
 
 
-explanation (in Persian) of every design decision, simplification, and how
-each module corresponds to the original paper.
 
 ## License
 
